@@ -1,3 +1,6 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/01848b4c-3a78-4c3e-a841-31390a089a8d" />
+
+
 # Docker Flow
 
 A production-ready multi-service web application containerized with Docker and Docker Compose. Features secure runtime configurations, optimized image layers, and Nginx reverse proxy.
@@ -22,7 +25,7 @@ This project consists of three main services:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/HP04Harsh/docker-flow-mesh
 cd docker-flow
 ```
 
